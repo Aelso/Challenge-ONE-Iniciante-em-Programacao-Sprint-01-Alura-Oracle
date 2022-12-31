@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Decodificador Alura - Sprint 01</title>
+
+    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href=" ./assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <header>
+        <div class="logo_a">
+            <img src="./assets/images/Logo.png" alt="Logo da Alura (aoenas a letra 'a')">
+        </div>
+        <h1 class="titulo">Challenge - Decodificador Alura</h1>
+    </header>
+    <main>
+        <section>
+            <div class="msg_aparece">
+                <textarea cols="30" rows="70" class="campo_msg" style="resize: none;" readonly></textarea>
+            </div>
+            <div id="aparece_copia">
+                <bottom type="submit" class="copiar" onclick="copyToClipboard()">Copiar</bottom>
+            </div>
+        </section>
+
+
+        <section>
+            <div class="escreve">
+                <textarea class="digite_texto" required placeholder="Digite seu texto">
+                </textarea>
+                <p class="label_texto">Atenção! Apenas letras minúsculas e sem acento.</p>
+            </div>
+            <div class="escolha">
+                <label for="escolha">Escolha o tipo de criptografia:</label>
+                <select name="escolha" id="escolha">
+                    <option value="1">Cifra de César</option>
+                    <option value="2">Cifra de Base64</option>
+                    <option value="3">Cifra de Código Morse</option>
+                </select>
+                
+            <div class="botao">
+                <bottom type="submit" class="cripto" onclick="encrypt()">Criptografar</bottom>
+                <bottom type="submit" class="descripto" onclick="decrypt()">Descriptografar</bottom>                
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p class="copyrigth"> &copy; Copyright Alura e Programa ONE 3 - 2022</p>
+        <p class="copyrigth"> Developer by Aelso Rocha Brito - 2022</p>
+    </footer>
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
