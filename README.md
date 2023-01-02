@@ -7,7 +7,7 @@
 
 * [IDE de desenvolvimento de site - Visual Studio Code](https://code.visualstudio.com/) 
 * [Versionamento - GitHub](https://github.com)
-* [site para gera os gradiente de cor - CSS Gradient](https://cssgradient.io/gradient-backgrounds/)
+* [Site para gera os gradiente de cor - CSS Gradient](https://cssgradient.io/gradient-backgrounds/)
 * [Formação Iniciante em programação](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-3-oracle-one)
 * [Tutoriais HTML, CSS e Javascript - W3Schools](https://www.w3schools.com/)
 
