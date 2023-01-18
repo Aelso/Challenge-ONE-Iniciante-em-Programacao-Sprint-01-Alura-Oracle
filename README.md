@@ -27,11 +27,12 @@ O decodificador usará esse mapeamento para transformar a entrada na forma codif
 
 Este projeto inclui os botões Criptografar, Descriptografar e Copiar. O botão Copiar permite que o usuário copie o texto criptografado ou descriptografado para a área de transferência.
 
+
 Para melhorar a experiência do usuário, os botões foram projetados com efeitos de sombra e escala que são acionados quando o mouse passa ou clica no elemento. Esses efeitos são aplicados suavemente com uma transição.
 
 O principal objetivo deste sprint foi demonstrar a capacidade de aplicar lógica de programação e conhecimentos de HTML e CSS (sem necessidade de responsividade). Este objetivo foi alcançado com sucesso.
-
+![demo](https://user-images.githubusercontent.com/49383092/213259087-902e5175-7980-44ee-ae8a-08b1c3981abe.png)
 <img src="https://img.shields.io/badge/Status-100%25-brightgreen?style=for-the-badge&logo=appveyor">
 
-![image](https://user-images.githubusercontent.com/49383092/213258417-95297eaa-32cb-405e-ac6c-8899d96ce184.png)
+
 
