@@ -32,3 +32,6 @@ Para melhorar a experiência do usuário, os botões foram projetados com efeito
 O principal objetivo deste sprint foi demonstrar a capacidade de aplicar lógica de programação e conhecimentos de HTML e CSS (sem necessidade de responsividade). Este objetivo foi alcançado com sucesso.
 
 <img src="https://img.shields.io/badge/Status-100%25-brightgreen?style=for-the-badge&logo=appveyor">
+
+![image](https://user-images.githubusercontent.com/49383092/213258417-95297eaa-32cb-405e-ac6c-8899d96ce184.png)
+
