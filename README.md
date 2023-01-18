@@ -31,7 +31,9 @@ Este projeto inclui os botões Criptografar, Descriptografar e Copiar. O botão 
 Para melhorar a experiência do usuário, os botões foram projetados com efeitos de sombra e escala que são acionados quando o mouse passa ou clica no elemento. Esses efeitos são aplicados suavemente com uma transição.
 
 O principal objetivo deste sprint foi demonstrar a capacidade de aplicar lógica de programação e conhecimentos de HTML e CSS (sem necessidade de responsividade). Este objetivo foi alcançado com sucesso.
-![demo](https://user-images.githubusercontent.com/49383092/213259087-902e5175-7980-44ee-ae8a-08b1c3981abe.png)
+
+![demo](https://user-images.githubusercontent.com/49383092/213259294-0ca1898b-4fc1-485f-aeca-b4d6bc2aa54e.png)
+
 <img src="https://img.shields.io/badge/Status-100%25-brightgreen?style=for-the-badge&logo=appveyor">
 
 
